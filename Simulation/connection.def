@@ -1,0 +1,10 @@
+INPUT: connection.inm
+MODNAME: apmain
+RUNID: connection
+NEW_RUNID: connection
+OLD_RUNID: connection
+PDF: connection.appdf
+USERNAME: sanchez
+XMOD: C:\Program Files (x86)\AspenTech\Aspen Plus V8.8\Engine\xeq\apmain
+SPONLY:
+DBCONN: _2858ghq.ads
