@@ -1,4 +1,4 @@
-# Aspen Plus-Python connection example
+# Aspen Plus-Python Connection Example
 
 This repo contains an Aspen Plus-Python connection example.
 
